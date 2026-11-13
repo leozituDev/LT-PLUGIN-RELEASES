@@ -1,9 +1,16 @@
-# Changelog — LT Clans Free
+# Histórico de versões — LT Clans Free
 
-## 0.2.0-alpha.3 — aguardando publicação do binário
+## [0.2.0-alpha.3] — pré-lançamento público
 
-- Versão identificada no `plugin.yml` do JAR fornecido.
-- Comando `/clan`, aliases `/cla` e `/clas` declarados.
-- Permissões `ltclans.jogar` e `ltclans.admin` declaradas.
+**Status:** Alpha (testes) · **Arquivo:** `LTClans-Free.0.2.0-Alpha.jar`
 
-**Nota:** este registro documenta apenas informações verificadas no pacote. Não é uma lista completa de alterações funcionais; ainda não há release com download neste repositório.
+### Informações verificadas no arquivo distribuído
+
+- Identificador do plugin: `LTClans`
+- Comando: `/clan` (atalhos `/cla` e `/clas`)
+- Permissões declaradas: `ltclans.jogar` e `ltclans.admin`
+- Descrição interna: edição Free do sistema de clãs com menu
+
+> Esta seção não afirma mudanças funcionais em relação a versões anteriores: não foi fornecido um histórico de comparação.
+
+**[Ver pré-lançamento e baixar JAR](https://github.com/leozituDev/LT-PLUGIN-RELEASES/releases/tag/LTPlugin)**
