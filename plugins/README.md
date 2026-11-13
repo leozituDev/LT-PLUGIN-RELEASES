@@ -1,7 +1,7 @@
-# Catálogo de plugins
+# Plugins publicados
 
-Esta pasta receberá **somente plugins com versões oficialmente publicadas**.
+| Plugin | Versão | Status | Página |
+| --- | --- | --- | --- |
+| LT Clans Free | `0.2.0-alpha.3` | Pré-lançamento Alpha | [Conhecer plugin](LT-Clans/README.md) |
 
-Para cada plugin lançado, criaremos uma pasta com README, CHANGELOG e imagens. Downloads gratuitos poderão ser distribuídos pelas GitHub Releases; versões comerciais terão links para canais oficiais de venda.
-
-**Nenhum plugin publicado por enquanto.**
+Apenas versões já disponibilizadas oficialmente são listadas aqui.
