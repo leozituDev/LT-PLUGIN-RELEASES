@@ -11,7 +11,7 @@
 | Plugin | Versão | Edição | Downloads |
 | --- | --- | --- | --- |
 | **LT Clans** | `0.8.0-alpha` | Free | [⬇ JAR](https://github.com/leozituDev/LT-PLUGIN-RELEASES/raw/refs/heads/main/plugins/LT-Clans/0.8.0-alpha/LTClans-Free-0.8.0-alpha.jar) · [Documentação](plugins/LT-Clans/README.md) |
-| **LT Tab** | `0.4.0-alpha` | Free | [⬇ JAR](https://github.com/leozituDev/LT-PLUGIN-RELEASES/raw/refs/heads/main/plugins/LT-Tab/0.4.0-alpha/LTTab-Free-0.4.0-alpha.jar) · [Documentação](plugins/LT-Tab/README.md) |
+| **LT Tab** | `0.4.1-alpha` | Free | [⬇ JAR](https://github.com/leozituDev/LT-PLUGIN-RELEASES/raw/refs/heads/main/plugins/LT-Tab/0.4.1-alpha/LTTab-Free-0.4.1-alpha.jar) · [Documentação](plugins/LT-Tab/README.md) |
 | **LT WorldStudio** | `1.4.3-alpha` | Standard | [⬇ JAR](https://github.com/leozituDev/LT-PLUGIN-RELEASES/raw/refs/heads/main/plugins/LT-WorldStudio/1.4.3-alpha/LTWorldStudio-Standard-1.4.3-alpha.jar) · [Documentação](plugins/LT-WorldStudio/README.md) |
 
 </div>

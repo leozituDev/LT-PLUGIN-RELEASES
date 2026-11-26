@@ -6,11 +6,11 @@
 
 **Personalize a lista TAB, scoreboard e nametags**
 
-[![Versão](https://img.shields.io/badge/vers%C3%A3o-0.4.0--alpha-087e8b)](0.4.0-alpha/)
+[![Versão](https://img.shields.io/badge/vers%C3%A3o-0.4.1--alpha-087e8b)](0.4.1-alpha/)
 ![Status](https://img.shields.io/badge/status-pr%C3%A9--lan%C3%A7amento-orange)
 ![Edição](https://img.shields.io/badge/edi%C3%A7%C3%A3o-Free-22c55e)
 
-**[⬇ Baixar JAR](https://github.com/leozituDev/LT-PLUGIN-RELEASES/raw/refs/heads/main/plugins/LT-Tab/0.4.0-alpha/LTTab-Free-0.4.0-alpha.jar)** · **[SHA-256](0.4.0-alpha/SHA256SUMS.txt)** · **[Histórico](CHANGELOG.md)** · **[Reportar problema](../../issues/new/choose)**
+**[⬇ Baixar JAR](https://github.com/leozituDev/LT-PLUGIN-RELEASES/raw/refs/heads/main/plugins/LT-Tab/0.4.1-alpha/LTTab-Free-0.4.1-alpha.jar)** · **[SHA-256](0.4.1-alpha/SHA256SUMS.txt)** · **[Histórico](CHANGELOG.md)** · **[Reportar problema](../../issues/new/choose)**
 
 </div>
 
@@ -26,7 +26,7 @@ O LT Tab Free configura cabeçalho e rodapé, formato dos nomes, scoreboard indi
 
 | Item | Valor |
 | --- | --- |
-| Versão | `0.4.0-alpha` |
+| Versão | `0.4.1-alpha` |
 | Edição | Free |
 | Nome interno | `LTTab` |
 | API declarada | `26.3` |
@@ -39,12 +39,12 @@ A integração com os plugins listados é opcional. O servidor inicia sem eles. 
 ## Instalação
 
 1. Faça backup de `plugins/LTTab/config.yml`.
-2. Baixe o [JAR LT Tab Free 0.4.0-alpha](https://github.com/leozituDev/LT-PLUGIN-RELEASES/raw/refs/heads/main/plugins/LT-Tab/0.4.0-alpha/LTTab-Free-0.4.0-alpha.jar).
+2. Baixe o [JAR LT Tab Free 0.4.1-alpha](https://github.com/leozituDev/LT-PLUGIN-RELEASES/raw/refs/heads/main/plugins/LT-Tab/0.4.1-alpha/LTTab-Free-0.4.1-alpha.jar).
 3. Coloque-o na pasta `plugins/` e reinicie o Paper.
 4. Configure `plugins/LTTab/config.yml` e use `/lttab ajuda`.
 
 ## English
 
-LT Tab Free configures the player list, sidebar scoreboard, nametags and permission-based visual groups. Version `0.4.0-alpha` targets Paper 26.3 and Java 25. This Alpha has not been visually validated in game or confirmed on Spigot, Purpur or Bedrock/Geyser.
+LT Tab Free configures the player list, sidebar scoreboard, nametags and permission-based visual groups. Version `0.4.1-alpha` targets Paper 26.3 and Java 25. This Alpha has not been visually validated in game or confirmed on Spigot, Purpur or Bedrock/Geyser.
 
-**[Download JAR](https://github.com/leozituDev/LT-PLUGIN-RELEASES/raw/refs/heads/main/plugins/LT-Tab/0.4.0-alpha/LTTab-Free-0.4.0-alpha.jar)** · **[Changelog](CHANGELOG.md)**
+**[Download JAR](https://github.com/leozituDev/LT-PLUGIN-RELEASES/raw/refs/heads/main/plugins/LT-Tab/0.4.1-alpha/LTTab-Free-0.4.1-alpha.jar)** · **[Changelog](CHANGELOG.md)**
