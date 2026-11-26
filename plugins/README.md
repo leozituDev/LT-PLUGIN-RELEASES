@@ -1,7 +1,9 @@
 # Plugins publicados
 
-| Plugin | Versão | Status | Página |
-| --- | --- | --- | --- |
-| LT Clans Free | `0.2.0-alpha.3` | Pré-lançamento Alpha | [Conhecer plugin](LT-Clans/README.md) |
+| Plugin | Versão | Edição | Status | Página |
+| --- | --- | --- | --- | --- |
+| LT Clans | `0.8.0-alpha` | Free | Pré-lançamento Alpha | [Conhecer e baixar](LT-Clans/README.md) |
+| LT Tab | `0.4.0-alpha` | Free | Pré-lançamento Alpha | [Conhecer e baixar](LT-Tab/README.md) |
+| LT WorldStudio | `1.4.3-alpha` | Standard | Pré-lançamento Alpha | [Conhecer e baixar](LT-WorldStudio/README.md) |
 
-Apenas versões já disponibilizadas oficialmente são listadas aqui.
+Os JARs estão organizados dentro da pasta de cada versão. A compatibilidade e o estado dos testes estão descritos nas páginas dos plugins.

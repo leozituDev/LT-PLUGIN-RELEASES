@@ -6,31 +6,22 @@
 
 ![LT Clans Free](assets/banners/lt-clans-free.svg)
 
-### Primeiro pré-lançamento público
+### Pré-lançamentos disponíveis
 
-**LT Clans Free — v0.2.0-alpha.3**
-
-[![Download](https://img.shields.io/badge/BAIXAR-LT%20Clans%20Free-7c3aed?style=for-the-badge)](https://github.com/leozituDev/LT-PLUGIN-RELEASES/releases/download/LTPlugin/LTClans-Free.0.2.0-Alpha.jar)
-[![Documentação](https://img.shields.io/badge/VER-DOCUMENTA%C3%87%C3%83O-3b4265?style=for-the-badge)](plugins/LT-Clans/README.md)
+| Plugin | Versão | Edição | Downloads |
+| --- | --- | --- | --- |
+| **LT Clans** | `0.8.0-alpha` | Free | [⬇ JAR](https://github.com/leozituDev/LT-PLUGIN-RELEASES/raw/refs/heads/main/plugins/LT-Clans/0.8.0-alpha/LTClans-Free-0.8.0-alpha.jar) · [Documentação](plugins/LT-Clans/README.md) |
+| **LT Tab** | `0.4.0-alpha` | Free | [⬇ JAR](https://github.com/leozituDev/LT-PLUGIN-RELEASES/raw/refs/heads/main/plugins/LT-Tab/0.4.0-alpha/LTTab-Free-0.4.0-alpha.jar) · [Documentação](plugins/LT-Tab/README.md) |
+| **LT WorldStudio** | `1.4.3-alpha` | Standard | [⬇ JAR](https://github.com/leozituDev/LT-PLUGIN-RELEASES/raw/refs/heads/main/plugins/LT-WorldStudio/1.4.3-alpha/LTWorldStudio-Standard-1.4.3-alpha.jar) · [Documentação](plugins/LT-WorldStudio/README.md) |
 
 </div>
 
-## Catálogo publicado
+## Antes de instalar
 
-| Plugin | Versão pública | Situação | Links |
-| --- | --- | --- | --- |
-| **LT Clans Free** | `0.2.0-alpha.3` | Alpha / pré-lançamento | [Detalhes](plugins/LT-Clans/README.md) · [Download](https://github.com/leozituDev/LT-PLUGIN-RELEASES/releases/tag/LTPlugin) |
+As versões listadas são pré-lançamentos Alpha. Leia a página de cada plugin, confirme a compatibilidade com seu servidor e faça backup dos dados antes de atualizar. Os JARs estão separados por plugin e versão; instale apenas uma edição de cada plugin por servidor.
 
-Somente versões efetivamente publicadas aparecem neste catálogo. Projetos ainda em desenvolvimento permanecem separados.
-
-## Sobre este repositório
-
-Aqui você encontra **downloads oficiais**, instruções de instalação, notas de atualização e um espaço para relatar problemas. Versões Alpha e Beta são identificadas como pré-lançamentos e podem conter erros.
-
-**[Todas as Releases](../../releases)** · **[Reportar bug](../../issues/new/choose)**
+**[Catálogo completo](plugins/README.md)** · **[Todas as Releases](../../releases)** · **[Reportar bug](../../issues/new/choose)**
 
 ## English
 
-Welcome to the official **LT Plugin** release hub for Minecraft server plugins. Only publicly released builds are listed here. **LT Clans Free 0.2.0-alpha.3** is available as an **Alpha pre-release** for testing; check compatibility and back up your server before installing.
-
-**[Download](https://github.com/leozituDev/LT-PLUGIN-RELEASES/releases/tag/LTPlugin)** · **[Plugin documentation](plugins/LT-Clans/README.md)**
+Official downloads for LT Plugins. Current files are Alpha pre-releases; check each plugin page for compatibility and testing notes, and back up your server before updating.

@@ -1,75 +1,49 @@
 <div align="center">
 
-![LT Clans Free — banner oficial](../../assets/banners/lt-clans-free.svg)
+![LT Clans Free](../../assets/banners/lt-clans-free.svg)
 
 # LT Clans Free
 
 **Plugin gratuito de clãs para servidores Minecraft**
 
-[![Versão](https://img.shields.io/badge/vers%C3%A3o-0.2.0--alpha.3-7c3aed)](../../releases/tag/LTPlugin)
+[![Versão](https://img.shields.io/badge/vers%C3%A3o-0.8.0--alpha-7c3aed)](0.8.0-alpha/)
 ![Status](https://img.shields.io/badge/status-pr%C3%A9--lan%C3%A7amento-orange)
 ![Edição](https://img.shields.io/badge/edi%C3%A7%C3%A3o-Free-22c55e)
 
-**[⬇ Baixar JAR](https://github.com/leozituDev/LT-PLUGIN-RELEASES/releases/download/LTPlugin/LTClans-Free.0.2.0-Alpha.jar)** · **[Notas da versão](../../releases/tag/LTPlugin)** · **[Histórico](CHANGELOG.md)** · **[Reportar problema](../../issues/new/choose)**
+**[⬇ Baixar JAR](https://github.com/leozituDev/LT-PLUGIN-RELEASES/raw/refs/heads/main/plugins/LT-Clans/0.8.0-alpha/LTClans-Free-0.8.0-alpha.jar)** · **[SHA-256](0.8.0-alpha/SHA256SUMS.txt)** · **[Histórico](CHANGELOG.md)** · **[Reportar problema](../../issues/new/choose)**
 
 </div>
 
 ---
 
-## Sobre o plugin
+## Sobre
 
-O **LT Clans Free** é a edição gratuita do sistema de clãs da **LT Plugin** para servidores Minecraft. Ele oferece uma base para criar e administrar clãs por comandos.
+O LT Clans Free permite criar e administrar clãs em um servidor Minecraft. A versão 0.8.0-alpha inclui uma GUI pública para consultar o resumo do clã e seus membros.
 
-> **Atenção:** a versão disponibilizada é **0.2.0-alpha.3**, destinada a testes. Faça backup do servidor antes de instalar. A compatibilidade com versões específicas do Minecraft e implementações de servidor ainda não foi validada nesta página.
+> **Pré-lançamento Alpha:** pode conter erros e mudanças. Faça backup dos dados do servidor antes de instalar ou atualizar. A versão informada foi conferida no descritor do JAR; teste no seu servidor antes de usar em produção.
 
-## Informações da versão
+## Informações
 
-| Item | Informação |
+| Item | Valor |
 | --- | --- |
-| Nome interno | `LTClans` |
-| Versão declarada | `0.2.0-alpha.3` |
+| Versão | `0.8.0-alpha` |
 | Edição | Free |
-| Autor declarado no JAR | LT Plugins |
-| Comando principal | `/clan` |
-| Atalhos | `/cla`, `/clas` |
-| Ajuda | `/clan ajuda` |
-| API declarada no JAR | `26.3` — compatibilidade a confirmar |
+| Nome interno | `LTClans` |
+| API declarada | `26.3` |
+| Comando | `/clan` (atalhos `/cla`, `/clas`) |
+| Permissões principais | `ltclans.jogar`, `ltclans.admin` |
 
-## Comandos e permissões
-
-O JAR declara o comando `/clan` e seus atalhos. Para consultar os subcomandos disponíveis **nesta compilação**, utilize `/clan ajuda` no servidor. Não presumimos que todos os recursos planejados para versões futuras já estejam presentes nesta Alpha.
-
-| Permissão | Padrão |
-| --- | --- |
-| `ltclans.jogar` | Todos os jogadores |
-| `ltclans.admin` | Operadores (OP) |
+A Free é autocontida. Instale apenas um JAR do LTClans por servidor; Free e Pro usam o mesmo nome de plugin e não podem coexistir.
 
 ## Instalação
 
-1. Faça um backup dos dados do servidor.
-2. Baixe o **[JAR oficial desta Alpha](https://github.com/leozituDev/LT-PLUGIN-RELEASES/releases/download/LTPlugin/LTClans-Free.0.2.0-Alpha.jar)**.
-3. Verifique se a compilação é compatível com seu ambiente de testes.
-4. Coloque o arquivo na pasta `plugins/` e reinicie o servidor.
-5. Confira o console e utilize `/clan ajuda`.
-
-## Imagens e demonstrações
-
-O banner acima é uma **ilustração promocional**. Capturas reais dos menus e comandos serão adicionadas após validação em servidor.
-
-## Feedback
-
-Encontrou um problema? Abra uma [Issue](../../issues/new/choose) informando versão do plugin, software e versão do servidor, passos para reproduzir e mensagens de erro (sem dados privados).
-
----
+1. Faça backup da pasta `plugins/LTClans`.
+2. Baixe o [JAR Free 0.8.0-alpha](https://github.com/leozituDev/LT-PLUGIN-RELEASES/raw/refs/heads/main/plugins/LT-Clans/0.8.0-alpha/LTClans-Free-0.8.0-alpha.jar).
+3. Coloque o arquivo em `plugins/` e inicie o servidor.
+4. Consulte `/clan ajuda` e confira o console.
 
 ## English
 
-**LT Clans Free** is a free Minecraft server clan plugin by LT Plugin. The current public build is **0.2.0-alpha.3**, an **Alpha pre-release** intended for testing, not a stable release. Back up your server first; specific server and Minecraft version compatibility has not been verified here.
+LT Clans Free is a Minecraft server clan plugin. Version `0.8.0-alpha` includes a public GUI for clan details and member browsing. This is an Alpha pre-release: back up server data and test it before production use.
 
-- **Download:** [LTClans-Free.0.2.0-Alpha.jar](https://github.com/leozituDev/LT-PLUGIN-RELEASES/releases/download/LTPlugin/LTClans-Free.0.2.0-Alpha.jar)
-- **Main command:** `/clan` (aliases `/cla`, `/clas`)
-- **Help:** `/clan ajuda`
-- **Permissions:** `ltclans.jogar`, `ltclans.admin`
-- **Changelog:** [CHANGELOG.md](CHANGELOG.md)
-
-<div align="center"><sub>LT Plugin · Divulgação oficial de versões publicadas</sub></div>
+**[Download JAR](https://github.com/leozituDev/LT-PLUGIN-RELEASES/raw/refs/heads/main/plugins/LT-Clans/0.8.0-alpha/LTClans-Free-0.8.0-alpha.jar)** · **[Changelog](CHANGELOG.md)**

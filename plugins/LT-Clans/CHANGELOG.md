@@ -1,16 +1,12 @@
-# Histórico de versões — LT Clans Free
+# Histórico — LT Clans Free
 
-## [0.2.0-alpha.3] — pré-lançamento público
+## 0.8.0-alpha — 26/11/2026
 
-**Status:** Alpha (testes) · **Arquivo:** `LTClans-Free.0.2.0-Alpha.jar`
+- JAR Free com versão `0.8.0-alpha`, conferida no descritor do arquivo.
+- Adiciona GUI pública de detalhes do clã com resumo e membros na mesma tela.
+- Pré-lançamento Alpha. Faça backup dos dados antes de atualizar e valide no seu ambiente.
+- SHA-256 disponível em [`0.8.0-alpha/SHA256SUMS.txt`](0.8.0-alpha/SHA256SUMS.txt).
 
-### Informações verificadas no arquivo distribuído
+## 0.2.0-alpha.3 — pré-lançamento anterior
 
-- Identificador do plugin: `LTClans`
-- Comando: `/clan` (atalhos `/cla` e `/clas`)
-- Permissões declaradas: `ltclans.jogar` e `ltclans.admin`
-- Descrição interna: edição Free do sistema de clãs com menu
-
-> Esta seção não afirma mudanças funcionais em relação a versões anteriores: não foi fornecido um histórico de comparação.
-
-**[Ver pré-lançamento e baixar JAR](https://github.com/leozituDev/LT-PLUGIN-RELEASES/releases/tag/LTPlugin)**
+A versão publicada anteriormente continua disponível na [release legada `LTPlugin`](../../releases/tag/LTPlugin).
